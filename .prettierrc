@@ -1,5 +1,0 @@
-{
-  "plugins": ["prettier-plugin-solidity"],
-  "solidityBracketSpacing": true,
-  "soliditySingleQuote": true
-}
